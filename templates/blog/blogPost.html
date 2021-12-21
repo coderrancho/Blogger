@@ -38,8 +38,8 @@
   <p>Please login to post a comment</p>
   {% endif %}
   {% for comment in comments %}
-  <div class="row my-3 container">
-    <div class="col-md-1 "><img class="rounded mx-auto d-block p-3 my-0" src="/static/Images/person.png"
+  <div class="row my-3 container" style='flex-wrap:nowrap;'>
+    <div class="col-md-1 " style='flex-shrink:5'><img class="rounded mx-auto d-block my-0" src="/static/Images/person.png"
         alt="user" style='height:auto;width:100%;'></div>
     <div class="col-md-11 "><b>{{comment.user}}</b>&nbsp;{{comment.timeStamp | naturaltime}}<br>{{comment.comment}}
       <div class="reply mx-0">
@@ -72,8 +72,8 @@
         {% endif %}
         <div class="replies">
           {% for reply in replyDict|get_val:comment.sno %}
-          <div class="row my-3">
-          <div class="col-md-1 "><img class="rounded mx-auto d-block p-3 my-0" src="/static/Images/person.png"
+          <div class="row my-3" style='flex-wrap:nowrap;'>
+          <div class="col-md-1 " style='flex-shrink:5'><img class="rounded mx-auto d-block my-0" src="/static/Images/person.png"
             alt="user" style='height:auto;width:100%;'></div>
           <div class="col-md-11 "><b>{{reply.user}}</b>&nbsp;{{reply.timeStamp | naturaltime}}<br>{{reply}}</div>
             <br>
