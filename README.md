@@ -7,4 +7,26 @@
 ***
 HOME 
 ***
-Top blogposts will be available here.
+**KEEP CALM AND WRITE DOWN**. Read latest and top blogposts here.
+
+***
+BLOGS
+***
+Find all blogposts here.
+
+***
+SEARCH
+***
+Hey I know you have been lost in number of blogposts. Don't mingle yourself, just search your favorite author here and **CONTINUE READING**
+
+***
+SIGNUP
+***
+You are reading blog and want to comment it, right. Just **SIGNUP** to do that.
+***
+LOGIN
+***
+Signup is not sufficient for that. **LOGIN** to enjoy other perks too.
+
+
+I will not talk too much but will say at last that write your own blog on **POST BLOG**. If you want to know about me then visit **ABOUT** tab and if you want to put your query then visit **CONTACT** tab.
